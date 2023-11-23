@@ -1,0 +1,28 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../MIPScpu.srcs/sources_1/new/ALU.v" \
+"../../../../MIPScpu.srcs/sources_1/new/controlUnit.v" \
+"../../../../MIPScpu.srcs/sources_1/new/dataMem.v" \
+"../../../../MIPScpu.srcs/sources_1/new/finalmux1.v" \
+"../../../../MIPScpu.srcs/sources_1/new/immExt.v" \
+"../../../../MIPScpu.srcs/sources_1/new/instMem.v" \
+"../../../../MIPScpu.srcs/sources_1/new/instMemMux.v" \
+"../../../../MIPScpu.srcs/sources_1/new/jalmux.v" \
+"../../../../MIPScpu.srcs/sources_1/new/pc.v" \
+"../../../../MIPScpu.srcs/sources_1/new/pcadder.v" \
+"../../../../MIPScpu.srcs/sources_1/new/pcadder2.v" \
+"../../../../MIPScpu.srcs/sources_1/new/pcmux.v" \
+"../../../../MIPScpu.srcs/sources_1/new/regfile.v" \
+"../../../../MIPScpu.srcs/sources_1/new/regfilemux.v" \
+"../../../../MIPScpu.srcs/sources_1/new/regfilemux2.v" \
+"../../../../MIPScpu.srcs/sources_1/new/slli.v" \
+"../../../../MIPScpu.srcs/sources_1/new/sllijump.v" \
+"../../../../MIPScpu.srcs/sources_1/new/theDatapath.v" \
+"../../../../MIPScpu.srcs/sources_1/new/wnmux.v" \
+"../../../../MIPScpu.srcs/sim_1/new/testbench.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

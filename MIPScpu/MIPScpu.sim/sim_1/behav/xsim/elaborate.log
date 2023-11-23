@@ -1,0 +1,35 @@
+Vivado Simulator v2022.1
+Copyright 1986-1999, 2001-2022 Xilinx, Inc. All Rights Reserved.
+Running: C:/Users/romfi/Desktop/Vivado/2022.1/bin/unwrapped/win64.o/xelab.exe --incr --debug typical --relax --mt 2 -L xil_defaultlib -L unisims_ver -L unimacro_ver -L secureip --snapshot testbench_behav xil_defaultlib.testbench xil_defaultlib.glbl -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Pass Through NonSizing Optimizer
+WARNING: [VRFC 10-3091] actual bit length 1 differs from formal bit length 4 for port 'aluc' [C:/Users/romfi/MIPScpu/MIPScpu.srcs/sources_1/new/theDatapath.v:52]
+WARNING: [VRFC 10-3091] actual bit length 1 differs from formal bit length 4 for port 'aluc' [C:/Users/romfi/MIPScpu/MIPScpu.srcs/sources_1/new/theDatapath.v:75]
+WARNING: [VRFC 10-3705] select index 0 into 'register' is out of bounds [C:/Users/romfi/MIPScpu/MIPScpu.srcs/sources_1/new/regfile.v:17]
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling module xil_defaultlib.pc
+Compiling module xil_defaultlib.pcadder
+Compiling module xil_defaultlib.instMem
+Compiling module xil_defaultlib.controlUnit
+Compiling module xil_defaultlib.instMemMux
+Compiling module xil_defaultlib.regfile
+Compiling module xil_defaultlib.slli
+Compiling module xil_defaultlib.pcadder2
+Compiling module xil_defaultlib.pcmux
+Compiling module xil_defaultlib.immExt
+Compiling module xil_defaultlib.regfilemux
+Compiling module xil_defaultlib.regfilemux2
+Compiling module xil_defaultlib.ALU
+Compiling module xil_defaultlib.dataMem
+Compiling module xil_defaultlib.finalmux
+Compiling module xil_defaultlib.slljump
+Compiling module xil_defaultlib.jalmux
+Compiling module xil_defaultlib.wnmux
+Compiling module xil_defaultlib.datapath
+Compiling module xil_defaultlib.testbench
+Compiling module xil_defaultlib.glbl
+Built simulation snapshot testbench_behav

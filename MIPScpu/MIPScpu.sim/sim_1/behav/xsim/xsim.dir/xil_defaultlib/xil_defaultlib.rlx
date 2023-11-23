@@ -1,0 +1,25 @@
+0.7
+2020.2
+Apr 18 2022
+16:05:34
+C:/Users/romfi/MIPScpu/MIPScpu.sim/sim_1/behav/xsim/glbl.v,1649976174,verilog,,,,glbl,,,,,,,,
+C:/Users/romfi/MIPScpu/MIPScpu.srcs/sim_1/new/testbench.v,1700777002,verilog,,,,testbench,,,,,,,,
+C:/Users/romfi/MIPScpu/MIPScpu.srcs/sources_1/new/ALU.v,1700777726,verilog,,C:/Users/romfi/MIPScpu/MIPScpu.srcs/sources_1/new/controlUnit.v,,ALU,,,,,,,,
+C:/Users/romfi/MIPScpu/MIPScpu.srcs/sources_1/new/controlUnit.v,1700777652,verilog,,C:/Users/romfi/MIPScpu/MIPScpu.srcs/sources_1/new/dataMem.v,,controlUnit,,,,,,,,
+C:/Users/romfi/MIPScpu/MIPScpu.srcs/sources_1/new/dataMem.v,1700775222,verilog,,C:/Users/romfi/MIPScpu/MIPScpu.srcs/sources_1/new/finalmux1.v,,dataMem,,,,,,,,
+C:/Users/romfi/MIPScpu/MIPScpu.srcs/sources_1/new/finalmux1.v,1700775498,verilog,,C:/Users/romfi/MIPScpu/MIPScpu.srcs/sources_1/new/immExt.v,,finalmux,,,,,,,,
+C:/Users/romfi/MIPScpu/MIPScpu.srcs/sources_1/new/immExt.v,1700775164,verilog,,C:/Users/romfi/MIPScpu/MIPScpu.srcs/sources_1/new/instMem.v,,immExt,,,,,,,,
+C:/Users/romfi/MIPScpu/MIPScpu.srcs/sources_1/new/instMem.v,1700774925,verilog,,C:/Users/romfi/MIPScpu/MIPScpu.srcs/sources_1/new/instMemMux.v,,instMem,,,,,,,,
+C:/Users/romfi/MIPScpu/MIPScpu.srcs/sources_1/new/instMemMux.v,1700775061,verilog,,C:/Users/romfi/MIPScpu/MIPScpu.srcs/sources_1/new/jalmux.v,,instMemMux,,,,,,,,
+C:/Users/romfi/MIPScpu/MIPScpu.srcs/sources_1/new/jalmux.v,1700775949,verilog,,C:/Users/romfi/MIPScpu/MIPScpu.srcs/sources_1/new/pc.v,,jalmux,,,,,,,,
+C:/Users/romfi/MIPScpu/MIPScpu.srcs/sources_1/new/pc.v,1700774876,verilog,,C:/Users/romfi/MIPScpu/MIPScpu.srcs/sources_1/new/pcadder.v,,pc,,,,,,,,
+C:/Users/romfi/MIPScpu/MIPScpu.srcs/sources_1/new/pcadder.v,1700774900,verilog,,C:/Users/romfi/MIPScpu/MIPScpu.srcs/sources_1/new/pcadder2.v,,pcadder,,,,,,,,
+C:/Users/romfi/MIPScpu/MIPScpu.srcs/sources_1/new/pcadder2.v,1700775122,verilog,,C:/Users/romfi/MIPScpu/MIPScpu.srcs/sources_1/new/pcmux.v,,pcadder2,,,,,,,,
+C:/Users/romfi/MIPScpu/MIPScpu.srcs/sources_1/new/pcmux.v,1700775142,verilog,,C:/Users/romfi/MIPScpu/MIPScpu.srcs/sources_1/new/regfile.v,,pcmux,,,,,,,,
+C:/Users/romfi/MIPScpu/MIPScpu.srcs/sources_1/new/regfile.v,1700775059,verilog,,C:/Users/romfi/MIPScpu/MIPScpu.srcs/sources_1/new/regfilemux.v,,regfile,,,,,,,,
+C:/Users/romfi/MIPScpu/MIPScpu.srcs/sources_1/new/regfilemux.v,1700775176,verilog,,C:/Users/romfi/MIPScpu/MIPScpu.srcs/sources_1/new/regfilemux2.v,,regfilemux,,,,,,,,
+C:/Users/romfi/MIPScpu/MIPScpu.srcs/sources_1/new/regfilemux2.v,1700775191,verilog,,C:/Users/romfi/MIPScpu/MIPScpu.srcs/sources_1/new/slli.v,,regfilemux2,,,,,,,,
+C:/Users/romfi/MIPScpu/MIPScpu.srcs/sources_1/new/slli.v,1700775264,verilog,,C:/Users/romfi/MIPScpu/MIPScpu.srcs/sources_1/new/sllijump.v,,slli,,,,,,,,
+C:/Users/romfi/MIPScpu/MIPScpu.srcs/sources_1/new/sllijump.v,1700775409,verilog,,C:/Users/romfi/MIPScpu/MIPScpu.srcs/sources_1/new/theDatapath.v,,slljump,,,,,,,,
+C:/Users/romfi/MIPScpu/MIPScpu.srcs/sources_1/new/theDatapath.v,1700777459,verilog,,C:/Users/romfi/MIPScpu/MIPScpu.srcs/sources_1/new/wnmux.v,,datapath,,,,,,,,
+C:/Users/romfi/MIPScpu/MIPScpu.srcs/sources_1/new/wnmux.v,1700775845,verilog,,C:/Users/romfi/MIPScpu/MIPScpu.srcs/sim_1/new/testbench.v,,wnmux,,,,,,,,
